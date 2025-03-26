@@ -1,4 +1,4 @@
-🚀 SimP++ {A Simple C/C++ IDE}
+#🚀 SimP++ {A Simple C/C++ IDE}
 
 🎯 Overview
 
